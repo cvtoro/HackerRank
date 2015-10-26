@@ -8,20 +8,23 @@ In case of multiple possible answers, print the lexicographically smallest one, 
 
 
 Example input:
+```
 5
 ab
 bb
 hefg
 dhck
 dkhc
+```
 
 Example output:
+```
 ba
 no answer
 hegf
 dhkc
 hcdk
-
+```
 
 
 Current solution only works for small number of testcases.
